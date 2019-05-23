@@ -3,3 +3,6 @@ HimalayaDotnet/HimalayaDotnet/obj
 .vs/himalaya-dotnet/v16
 .vs
 HimalayaDotnet/HimalayaDotnet/bin
+HimalayaDotnet/HimalayaDotnetTest/obj
+HimalayaDotnet/HimalayaDotnet/HimalayaDotnet.csproj.user
+HimalayaDotnet/HimalayaDotnet/Properties/PublishProfiles/FolderProfile.pubxml.user

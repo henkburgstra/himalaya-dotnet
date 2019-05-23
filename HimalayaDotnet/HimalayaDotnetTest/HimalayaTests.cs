@@ -1,9 +1,10 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Text;
+using HimalayaDotnet;
 using Xunit;
 
-namespace HimalayaDotnet.Test
+namespace HimalayaDotnetTest
 {
     public class HimalayaTests
     {
